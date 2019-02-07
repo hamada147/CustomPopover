@@ -1,9 +1,8 @@
 //
 //  PopOverMe.swift
-//  B2B_Merchant
 //
 //  Created by Ahmed Moussa on 2/6/19.
-//  Copyright © 2019 Codelabsys. All rights reserved.
+//  Copyright © 2019 Ahmed Moussa. All rights reserved.
 //
 
 @objc protocol CustomPopoverDelegate {
